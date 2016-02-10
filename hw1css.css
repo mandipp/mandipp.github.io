@@ -1,0 +1,35 @@
+.company {
+	font-weight: bolder;
+	font-size: 125%;
+	color: #088205;
+}
+
+body {
+	font-family: "Sans-serif";
+}
+
+h1 {
+	color: #1f7111;
+	font-weight: bold;
+	font-family: "Garamond", "Sans-serif";
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2 {
+	color: #66ddaa;
+	font-family: "Serif";
+}
+
+
+p.position {
+	font-style: italic;
+	font-size: 110%;
+}
+
+div {
+	padding: 2%;
+	background-color: #efface;
+	border-radius: 10px;
+}
+
